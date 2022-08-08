@@ -6,7 +6,7 @@ import numpy as np
 from numpy import random
 import pandas as pd
 import numpy as np
-import linearAE as tae
+import vanillaAE as tae
 
 if __name__=="__main__":
     seed = 17
